@@ -3,7 +3,6 @@ import os, sys
 from re import U
 import aiohttp
 import concurrent.futures
-
 import lightbulb
 import hikari
 import miru
